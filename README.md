@@ -19,7 +19,7 @@ This is a simple web application that allows users to search for and retrieve in
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/movie-app.git
+   git clone https://github.com/Justdara/movie-app.git
 2. Open the index.html file in your preferred web browser.
 
 3. Use the search bar to search for movies by title or keyword.
