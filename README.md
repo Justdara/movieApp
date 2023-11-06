@@ -2,7 +2,7 @@
 
 This is a simple web application that allows users to search for and retrieve information about movies using an API. The app is built using HTML, JavaScript, and makes use of an external movie database API.
 
-![Live site](https://olabampe-movieapp.netlify.app/)
+[Live site](https://olabampe-movieapp.netlify.app/)
 
 ## Features
 
